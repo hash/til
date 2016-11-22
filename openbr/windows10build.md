@@ -11,6 +11,7 @@ then bug in Eigen/src/Core/MapBase.h
   * http://eigen.tuxfamily.org/bz/show_bug.cgi?id=920
   
 then dont know
+
     [...]
     Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
     Copyright (C) Microsoft Corporation.  All rights reserved.
